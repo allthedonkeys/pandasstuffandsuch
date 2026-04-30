@@ -1,0 +1,201 @@
+bug_id,title,severity,assignee,hours_to_fix,status,created
+1001,UI alignment issue in settings,medium,Dan Lee,9.1,resolved,2025-01-01
+1002,Incorrect sort order on dates,medium,Jake Wilson,3.5,closed,2025-01-01
+1003,Slow rendering of chart component,medium,Eva Novak,1.8,resolved,2025-01-02
+1004,Slow rendering of chart component,medium,Jake Wilson,3.0,closed,2025-01-02
+1005,Slow database query on dashboard,medium,Femi Adeyemi,2.0,open,2025-01-03
+1006,Session expiry not handled,medium,Grace Park,3.0,resolved,2025-01-03
+1007,API timeout on large requests,medium,Alice Chen,3.0,open,2025-01-04
+1008,Slow rendering of chart component,medium,Alice Chen,2.0,open,2025-01-04
+1009,Session expiry not handled,medium,Dan Lee,2.2,closed,2025-01-05
+1010,Memory leak in background service,medium,Carla Diaz,5.8,in_progress,2025-01-05
+1011,User role permissions not checked,medium,Grace Park,2.8,resolved,2025-01-06
+1012,Session expiry not handled,medium,Isla Brown,1.5,closed,2025-01-06
+1013,PDF export missing table headers,medium,Grace Park,3.0,closed,2025-01-07
+1014,API rate limit not enforced,medium,Dan Lee,5.2,in_progress,2025-01-07
+1015,Cache not invalidated on update,medium,Isla Brown,1.5,resolved,2025-01-08
+1016,Slow autocomplete suggestions,medium,Isla Brown,0.9,resolved,2025-01-08
+1017,Crash on empty input field,medium,Carla Diaz,0.6,in_progress,2025-01-09
+1018,Avatar image not resized properly,medium,Grace Park,0.4,open,2025-01-09
+1019,Incorrect tax calculation,medium,Bob Smith,3.5,resolved,2025-01-10
+1020,Double-click creates duplicate entry,medium,Alice Chen,3.5,closed,2025-01-10
+1021,API rate limit not enforced,medium,Isla Brown,4.0,open,2025-01-11
+1022,Double-click creates duplicate entry,medium,Alice Chen,0.9,closed,2025-01-11
+1023,Race condition in checkout flow,medium,Carla Diaz,6.5,resolved,2025-01-12
+1024,Search returns duplicate results,medium,Grace Park,1.5,wontfix,2025-01-12
+1025,Broken pagination on search results,medium,Jake Wilson,1.0,closed,2025-01-13
+1026,Broken pagination on search results,medium,Isla Brown,2.0,resolved,2025-01-13
+1027,API returns wrong HTTP status code,medium,Carla Diaz,4.9,resolved,2025-01-14
+1028,Missing error message for 404,medium,Femi Adeyemi,2.5,in_progress,2025-01-14
+1029,API returns wrong HTTP status code,medium,Alice Chen,2.0,resolved,2025-01-15
+1030,Race condition in checkout flow,medium,Jake Wilson,1.5,wontfix,2025-01-15
+1031,Crash on special characters in name,medium,Bob Smith,2.5,closed,2025-01-16
+1032,API timeout on large requests,medium,Grace Park,2.5,open,2025-01-16
+1033,Broken pagination on search results,medium,Alice Chen,4.0,closed,2025-01-17
+1034,API timeout on large requests,medium,Bob Smith,3.0,closed,2025-01-17
+1035,Broken link in help documentation,medium,Hasan Ali,3.8,resolved,2025-01-18
+1036,User role permissions not checked,medium,Dan Lee,2.5,resolved,2025-01-18
+1037,Broken pagination on search results,medium,Carla Diaz,0.5,open,2025-01-19
+1038,API rate limit not enforced,medium,Jake Wilson,5.5,in_progress,2025-01-19
+1039,Search returns duplicate results,medium,Bob Smith,2.5,open,2025-01-20
+1040,Search returns duplicate results,medium,Isla Brown,3.0,in_progress,2025-01-20
+1041,Avatar image not resized properly,medium,Isla Brown,2.0,closed,2025-01-21
+1042,Accessibility: missing alt text,medium,Carla Diaz,0.7,resolved,2025-01-21
+1043,Incorrect tax calculation,medium,Alice Chen,1.0,open,2025-01-22
+1044,API returns wrong HTTP status code,medium,Hasan Ali,0.3,open,2025-01-22
+1045,Dark mode colours inconsistent,medium,Isla Brown,1.2,in_progress,2025-01-23
+1046,Cache not invalidated on update,medium,Carla Diaz,3.0,in_progress,2025-01-23
+1047,Memory usage spikes during import,medium,Grace Park,0.8,closed,2025-01-24
+1048,API rate limit not enforced,medium,Femi Adeyemi,6.0,open,2025-01-24
+1049,Session expiry not handled,medium,Dan Lee,0.7,resolved,2025-01-25
+1050,Accessibility: missing alt text,medium,Femi Adeyemi,4.5,in_progress,2025-01-25
+1051,Incorrect sort order on dates,medium,Femi Adeyemi,1.5,resolved,2025-01-26
+1052,Login page crash on mobile,medium,Eva Novak,4.0,in_progress,2025-01-26
+1053,API timeout on large requests,medium,Femi Adeyemi,1.5,resolved,2025-01-27
+1054,Avatar image not resized properly,medium,Hasan Ali,5.0,closed,2025-01-27
+1055,Login page crash on mobile,medium,Carla Diaz,2.0,in_progress,2025-01-28
+1056,Error parsing CSV upload,medium,Alice Chen,3.2,resolved,2025-01-28
+1057,API rate limit not enforced,medium,Isla Brown,3.5,in_progress,2025-01-29
+1058,Crash on empty input field,medium,Jake Wilson,1.8,closed,2025-01-29
+1059,Race condition in checkout flow,medium,Alice Chen,0.5,resolved,2025-01-30
+1060,Slow autocomplete suggestions,medium,Dan Lee,8.2,resolved,2025-01-30
+1061,Double-click creates duplicate entry,medium,Femi Adeyemi,1.0,open,2025-01-31
+1062,Logout does not clear session,medium,Bob Smith,2.5,resolved,2025-01-31
+1063,Broken link in help documentation,medium,Isla Brown,2.0,closed,2025-02-01
+1064,Login page crash on mobile,medium,Jake Wilson,2.5,in_progress,2025-02-01
+1065,Profile image upload fails,medium,Grace Park,7.5,in_progress,2025-02-02
+1066,Inconsistent button styles,medium,Dan Lee,3.5,resolved,2025-02-02
+1067,Slow database query on dashboard,medium,Femi Adeyemi,3.5,resolved,2025-02-03
+1068,Inconsistent button styles,medium,Alice Chen,1.2,in_progress,2025-02-03
+1069,Email template formatting broken,medium,Alice Chen,0.3,resolved,2025-02-04
+1070,Memory usage spikes during import,medium,Jake Wilson,1.0,in_progress,2025-02-04
+1071,Scroll position resets on filter,medium,Hasan Ali,1.0,wontfix,2025-02-05
+1072,API returns wrong HTTP status code,medium,Jake Wilson,0.6,in_progress,2025-02-05
+1073,Incorrect sort order on dates,medium,Dan Lee,0.2,in_progress,2025-02-06
+1074,Slow autocomplete suggestions,medium,Eva Novak,0.4,closed,2025-02-06
+1075,Push notification not delivered,medium,Isla Brown,1.5,in_progress,2025-02-07
+1076,Search returns duplicate results,medium,Carla Diaz,8.5,in_progress,2025-02-07
+1077,Scroll position resets on filter,medium,Femi Adeyemi,4.0,closed,2025-02-08
+1078,Logout does not clear session,medium,Dan Lee,4.5,wontfix,2025-02-08
+1079,API timeout on large requests,medium,Carla Diaz,1.0,closed,2025-02-09
+1080,Login page crash on mobile,medium,Jake Wilson,7.0,resolved,2025-02-09
+1081,Incorrect date formatting,low,Eva Novak,0.7,open,2025-02-10
+1082,API timeout on large requests,low,Grace Park,5.6,closed,2025-02-10
+1083,API timeout on large requests,low,Femi Adeyemi,3.9,closed,2025-02-11
+1084,Double-click creates duplicate entry,low,Grace Park,2.6,wontfix,2025-02-11
+1085,PDF export missing table headers,low,Hasan Ali,2.6,in_progress,2025-02-12
+1086,Timezone conversion error,low,Bob Smith,0.3,in_progress,2025-02-12
+1087,Crash on empty input field,low,Alice Chen,0.5,resolved,2025-02-13
+1088,API timeout on large requests,low,Hasan Ali,2.0,open,2025-02-13
+1089,PDF export missing table headers,low,Grace Park,4.1,resolved,2025-02-14
+1090,Error parsing CSV upload,low,Jake Wilson,2.6,in_progress,2025-02-14
+1091,Dark mode colours inconsistent,low,Dan Lee,6.6,resolved,2025-02-15
+1092,Session expiry not handled,low,Eva Novak,3.1,resolved,2025-02-15
+1093,Session expiry not handled,low,Hasan Ali,2.0,closed,2025-02-16
+1094,API rate limit not enforced,low,Eva Novak,0.6,in_progress,2025-02-16
+1095,Broken link in help documentation,low,Isla Brown,4.3,open,2025-02-17
+1096,Login page crash on mobile,low,Dan Lee,3.1,open,2025-02-17
+1097,API rate limit not enforced,low,Bob Smith,1.5,open,2025-02-18
+1098,Memory leak in background service,low,Jake Wilson,0.4,in_progress,2025-02-18
+1099,Error parsing CSV upload,low,Femi Adeyemi,5.3,closed,2025-02-19
+1100,Race condition in checkout flow,low,Carla Diaz,3.1,open,2025-02-19
+1101,Timezone conversion error,low,Isla Brown,3.6,in_progress,2025-02-20
+1102,Incorrect date formatting,low,Alice Chen,1.5,resolved,2025-02-20
+1103,Crash when switching tabs quickly,low,Bob Smith,5.9,resolved,2025-02-21
+1104,Logout does not clear session,low,Jake Wilson,1.8,open,2025-02-21
+1105,Incorrect date formatting,low,Eva Novak,1.5,closed,2025-02-22
+1106,API rate limit not enforced,low,Eva Novak,1.5,closed,2025-02-22
+1107,Email template formatting broken,low,Grace Park,1.0,resolved,2025-02-23
+1108,Broken link in help documentation,low,Grace Park,0.8,resolved,2025-02-23
+1109,Incorrect tax calculation,low,Jake Wilson,2.6,resolved,2025-02-24
+1110,Timeout on file export,low,Grace Park,0.2,resolved,2025-02-24
+1111,Memory usage spikes during import,low,Jake Wilson,2.0,in_progress,2025-02-25
+1112,Incorrect date formatting,low,Grace Park,3.4,resolved,2025-02-25
+1113,Login page crash on mobile,low,Bob Smith,1.2,open,2025-02-26
+1114,Slow database query on dashboard,low,Carla Diaz,1.5,open,2025-02-26
+1115,Memory usage spikes during import,low,Isla Brown,2.0,resolved,2025-02-27
+1116,Login page crash on mobile,low,Hasan Ali,1.0,open,2025-02-27
+1117,Session expiry not handled,low,Hasan Ali,3.3,resolved,2025-02-28
+1118,Avatar image not resized properly,low,Grace Park,2.9,closed,2025-02-28
+1119,Logout does not clear session,low,Grace Park,4.1,open,2025-03-01
+1120,PDF export missing table headers,low,Bob Smith,3.1,resolved,2025-03-01
+1121,Email template formatting broken,low,Dan Lee,4.6,in_progress,2025-03-02
+1122,Incorrect tax calculation,low,Dan Lee,1.0,open,2025-03-02
+1123,Missing error message for 404,low,Alice Chen,0.9,closed,2025-03-03
+1124,Session expiry not handled,low,Eva Novak,2.6,in_progress,2025-03-03
+1125,API rate limit not enforced,low,Isla Brown,2.0,resolved,2025-03-04
+1126,Form data lost on back button,low,Grace Park,2.2,closed,2025-03-04
+1127,Scroll position resets on filter,low,Eva Novak,1.0,resolved,2025-03-05
+1128,Profile image upload fails,low,Dan Lee,1.2,in_progress,2025-03-05
+1129,Accessibility: missing alt text,low,Carla Diaz,3.6,closed,2025-03-06
+1130,Avatar image not resized properly,low,Eva Novak,6.1,resolved,2025-03-06
+1131,Timeout on file export,high,Eva Novak,0.3,open,2025-03-07
+1132,Timezone conversion error,high,Carla Diaz,3.6,closed,2025-03-07
+1133,Login page crash on mobile,high,Eva Novak,1.3,closed,2025-03-08
+1134,Incorrect sort order on dates,high,Femi Adeyemi,7.1,resolved,2025-03-08
+1135,Timeout on file export,high,Jake Wilson,3.6,closed,2025-03-09
+1136,Broken pagination on search results,high,Isla Brown,5.2,closed,2025-03-09
+1137,Incorrect tax calculation,high,Bob Smith,4.8,resolved,2025-03-10
+1138,Email template formatting broken,high,Jake Wilson,3.4,resolved,2025-03-10
+1139,Login page crash on mobile,high,Hasan Ali,3.9,resolved,2025-03-11
+1140,Broken pagination on search results,high,Dan Lee,6.1,closed,2025-03-11
+1141,Incorrect sort order on dates,high,Carla Diaz,1.3,open,2025-03-12
+1142,Push notification not delivered,high,Hasan Ali,3.1,resolved,2025-03-12
+1143,Cache not invalidated on update,high,Alice Chen,3.7,in_progress,2025-03-13
+1144,Scroll position resets on filter,high,Carla Diaz,2.0,open,2025-03-13
+1145,Logout does not clear session,high,Eva Novak,3.1,closed,2025-03-14
+1146,User role permissions not checked,high,Dan Lee,1.2,open,2025-03-14
+1147,Logout does not clear session,high,Hasan Ali,2.7,resolved,2025-03-15
+1148,Email template formatting broken,high,Bob Smith,3.9,resolved,2025-03-15
+1149,PDF export missing table headers,high,Eva Novak,4.3,open,2025-03-16
+1150,Slow autocomplete suggestions,high,Bob Smith,3.9,closed,2025-03-16
+1151,Email template formatting broken,high,Hasan Ali,3.9,resolved,2025-03-17
+1152,API timeout on large requests,high,Grace Park,2.0,open,2025-03-17
+1153,Error parsing CSV upload,high,Alice Chen,3.1,open,2025-03-18
+1154,API returns wrong HTTP status code,high,Dan Lee,5.3,resolved,2025-03-18
+1155,Cache not invalidated on update,high,Eva Novak,3.9,in_progress,2025-03-19
+1156,Memory leak in background service,high,Eva Novak,3.4,in_progress,2025-03-19
+1157,Slow database query on dashboard,high,Bob Smith,0.4,open,2025-03-20
+1158,User role permissions not checked,high,Eva Novak,3.4,resolved,2025-03-20
+1159,Incorrect tax calculation,high,Jake Wilson,6.3,closed,2025-03-21
+1160,Email template formatting broken,high,Jake Wilson,0.7,resolved,2025-03-21
+1161,Profile image upload fails,high,Eva Novak,2.0,resolved,2025-03-22
+1162,Accessibility: missing alt text,high,Jake Wilson,3.4,in_progress,2025-03-22
+1163,Incorrect sort order on dates,high,Bob Smith,7.5,in_progress,2025-03-23
+1164,API returns wrong HTTP status code,high,Isla Brown,4.5,in_progress,2025-03-23
+1165,Incorrect sort order on dates,high,Eva Novak,2.7,open,2025-03-24
+1166,Slow database query on dashboard,high,Jake Wilson,4.1,open,2025-03-24
+1167,Login page crash on mobile,high,Carla Diaz,3.9,wontfix,2025-03-25
+1168,Session expiry not handled,high,Alice Chen,3.2,resolved,2025-03-25
+1169,Push notification not delivered,high,Dan Lee,6.6,open,2025-03-26
+1170,Avatar image not resized properly,high,Hasan Ali,6.7,resolved,2025-03-26
+1171,Memory leak in background service,high,Femi Adeyemi,0.9,in_progress,2025-03-27
+1172,Crash when switching tabs quickly,high,Carla Diaz,3.9,closed,2025-03-27
+1173,Incorrect sort order on dates,high,Femi Adeyemi,0.7,resolved,2025-03-28
+1174,Push notification not delivered,high,Jake Wilson,3.3,open,2025-03-28
+1175,API returns wrong HTTP status code,high,Isla Brown,2.7,closed,2025-03-29
+1176,Incorrect tax calculation,high,Carla Diaz,3.4,closed,2025-03-29
+1177,Login page crash on mobile,high,Hasan Ali,5.6,resolved,2025-03-30
+1178,Timeout on file export,high,Jake Wilson,2.7,resolved,2025-03-30
+1179,Form data lost on back button,high,Hasan Ali,3.2,resolved,2025-03-31
+1180,Memory leak in background service,high,Grace Park,3.1,open,2025-03-31
+1181,Missing error message for 404,critical,Carla Diaz,9.0,closed,2025-04-01
+1182,Logout does not clear session,critical,Carla Diaz,2.5,wontfix,2025-04-01
+1183,Crash on empty input field,critical,Bob Smith,0.2,resolved,2025-04-02
+1184,Broken pagination on search results,critical,Alice Chen,10.5,open,2025-04-02
+1185,Missing error message for 404,critical,Alice Chen,2.3,resolved,2025-04-03
+1186,Incorrect sort order on dates,critical,Femi Adeyemi,2.5,in_progress,2025-04-03
+1187,Crash on special characters in name,critical,Hasan Ali,2.5,closed,2025-04-04
+1188,Push notification not delivered,critical,Bob Smith,8.5,wontfix,2025-04-04
+1189,API rate limit not enforced,critical,Hasan Ali,4.0,closed,2025-04-05
+1190,Profile image upload fails,critical,Isla Brown,3.0,closed,2025-04-05
+1191,Dark mode colours inconsistent,critical,Bob Smith,0.3,wontfix,2025-04-06
+1192,Race condition in checkout flow,critical,Jake Wilson,11.0,closed,2025-04-06
+1193,UI alignment issue in settings,critical,Bob Smith,2.5,closed,2025-04-07
+1194,Crash on empty input field,critical,Carla Diaz,2.5,closed,2025-04-07
+1195,User role permissions not checked,critical,Dan Lee,9.0,open,2025-04-08
+1196,Race condition in checkout flow,critical,Dan Lee,2.1,in_progress,2025-04-08
+1197,API rate limit not enforced,critical,Jake Wilson,2.5,closed,2025-04-09
+1198,Cache not invalidated on update,critical,Alice Chen,2.3,resolved,2025-04-09
+1199,Profile image upload fails,critical,Bob Smith,0.5,closed,2025-04-10
+1200,Broken pagination on search results,critical,Isla Brown,2.3,open,2025-04-10
